@@ -1,6 +1,6 @@
 # DySample: Learning to Upsample by Learning to Sample
 
-<p align="center"><img src="complexity.jpg" width="600" title="Complexity"/></p>
+<p align="center"><img src="complexity.jpg" width="500" title="Complexity"/></p>
 
 Code for the ICCV 2023 paper [Learning to Upsample by Learning to Sample]().
 
