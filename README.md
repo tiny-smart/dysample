@@ -1,6 +1,6 @@
 # DySample: Learning to Upsample by Learning to Sample
 
-Code for the ICCV 2023 paper [Learning to Upsample by Learning to Sample]()
+Code for the ICCV 2023 paper [Learning to Upsample by Learning to Sample]().
 
 ## Highlights
 
