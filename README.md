@@ -14,7 +14,7 @@ We present DySample, an ultra-lightweight and effective dynamic upsampler. While
 ## Results
 
 Object detection with Faster R-CNN on COCO
-| Faster R-CNN | Backbone | Params |   AP     | AP$_{50}$ | AP$_{75}$ | AP$_S$   | AP$_M$   | AP$_{L}$ |  log  | ckpt  |
+| Faster R-CNN | Backbone | Params |   AP     | $AP_{50}$ | AP$_{75}$ | AP$_S$   | AP$_M$   | AP$_{L}$ |  log  | ckpt  |
 | :---:        |  :---:   | :---:  | :---:    | :---:     | :---:     | :---:    | :---:    | :---:    | :---: | :---: |
 | Nearest      | R50      | 46.8M  | 37.4     | 58.1      | 40.4      | 21.2     | 41.0     | 48.1     |       |       |
 | DySample     | R50      | +32.7K | 38.6     | 59.9      | 42.0      | 22.9     | 42.1     | 50.2     |[Link](https://github.com/tiny-smart/detection-with-upsamplers/releases/download/checkpoint/faster_rcnn_r50_fpn_dysample-lpg4_1x_coco.log)|[Link](https://github.com/tiny-smart/detection-with-upsamplers/releases/download/checkpoint/faster_rcnn_r50_fpn_dysample-lpg4_1x_coco.pth)|
