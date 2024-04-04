@@ -16,7 +16,7 @@ We present DySample, an ultra-lightweight and effective dynamic upsampler. While
 Object detection with Faster R-CNN on COCO
 | Faster R-CNN | Backbone | Params |   $AP$   | $AP_{50}$ | $AP_{75}$ | $AP_S$   | $AP_M$   | $AP_{L}$ |  log  | ckpt  |
 | :---:        |  :---:   | :---:  | :---:    | :---:     | :---:     | :---:    | :---:    | :---:    | :---: | :---: |
-| Nearest      | R50      | 46.8M  | 37.4     | 58.1      | 40.4      | 21.2     | 41.0     | 48.1     |       |       |
+| Nearest      | R50      | 46.8M  | 37.5     | 58.2      | 40.8      | 21.3     | 41.1     | 48.9     |       |       |
 | DySample     | R50      | +32.7K | 38.6     | 59.9      | 42.0      | 22.9     | 42.1     | 50.2     |[Link](https://github.com/tiny-smart/detection-with-upsamplers/releases/download/checkpoint/faster_rcnn_r50_fpn_dysample-lpg4_1x_coco.log)|[Link](https://github.com/tiny-smart/detection-with-upsamplers/releases/download/checkpoint/faster_rcnn_r50_fpn_dysample-lpg4_1x_coco.pth)|
 | DySample+    | R50      | +65.5K | 38.7     | 60.0      | 42.2      | 22.5     | 42.4     | 50.2     |[Link](https://github.com/tiny-smart/detection-with-upsamplers/releases/download/checkpoint/faster_rcnn_r50_fpn_dysample-lpg4ds_1x_coco.log)|[Link](https://github.com/tiny-smart/detection-with-upsamplers/releases/download/checkpoint/faster_rcnn_r50_fpn_dysample-lpg4ds_1x_coco.pth)|
 | Nearest      | R101     | 65.8M  | 39.4     | 60.1      | 43.1      | 22.4     | 43.7     | 51.1     |       |       |
