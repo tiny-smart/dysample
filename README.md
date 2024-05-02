@@ -48,6 +48,10 @@ Panoptic segmentation with Panoptic FPN on COCO
 | Nearest      |   R101   | 65.0M  |  42.2    |  50.1     |  30.3     |  78.3   |  51.4   |       |       |
 | DySample+    |   R101   | +49.2K |  43.0    |  50.2     |  32.1     |  78.6   |  52.4   |[Link](https://github.com/tiny-smart/detection-with-upsamplers/releases/download/checkpoint/panoptic_fpn_r101_fpn_dysample-lpg4ds_1x_coco.log)|[Link](https://github.com/tiny-smart/detection-with-upsamplers/releases/download/checkpoint/panoptic_fpn_r101_fpn_dysample-lpg4ds_1x_coco.pth)|
 
+## Usage
+
+For application instances, one can refer to [detection-with-upsamplers](https://github.com/tiny-smart/detection-with-upsamplers) and [segmentation-with-upsamplers](https://github.com/tiny-smart/segmentation-with-upsamplers) to try upsamplers with mmcv.
+
 ## Citation
 If you find DySample useful for your research, please cite:
 ```
